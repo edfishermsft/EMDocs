@@ -35,7 +35,7 @@ MTP offers the ability to experience the full Microsoft threat protection soluti
 - [Azure Active Directory](https://azure.microsoft.com/services/active-directory/)
 - [Azure Advanced Threat Protection](https://azure.microsoft.com/features/azure-advanced-threat-protection/)
 - [Office 365 Advanced Threat Protection](https://products.office.com/exchange/online-email-threat-protection)
-- [Windows Defender Advanced Threat Protection](https://www.microsoft.com/WindowsForBusiness/windows-atp)
+- [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 - [Microsoft Cloud App Security](https://www.microsoft.com/cloud-platform/cloud-app-security)
 
 Customers who want to try Microsoft Threat Protection can do so for 30 days and up to 250 users on your tenant.
@@ -51,7 +51,7 @@ We recommend you activate your MTP trial by setting up and configuring the MTP c
 2. Exchange Online
 3. Office 365 Advanced Threat Protection
 4. Microsoft Cloud App Security
-5. Windows Defender Advanced Threat Protection
+5. Microsoft Defender Advanced Threat Protection
 6. Azure Advanced Threat Protection
 7. Azure Security Center  
 
